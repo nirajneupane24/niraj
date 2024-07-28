@@ -440,7 +440,7 @@ img {
   display: flex;
   justify-content: center;
   margin: 0 auto; /* Center the div itself */
-  width: 100%; /* Optional: Ensure it takes up the full width of the parent container */
+  width: 20%; /* Optional: Ensure it takes up the full width of the parent container */
   text-align: center; /* Center the text within the div */
 }
 
